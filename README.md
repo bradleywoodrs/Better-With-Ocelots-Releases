@@ -1,4 +1,10 @@
 # Better With Ocelots
+*Supported Versions:*
+- BTA! 8.0.1
+
+*Required Dependencies:*
+- [Halplibe 6.2.0](https://github.com/Turnip-Labs/bta-halplibe/releases)
+- [Babric BTA Instance](https://github.com/Turnip-Labs/bta-fabric-instance-repo/releases)
 
 This mod adds ocelots and cats into BTA!
 
