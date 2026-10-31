@@ -6,6 +6,10 @@
 - [Halplibe 6.2.0](https://github.com/Turnip-Labs/bta-halplibe/releases)
 - [Babric BTA Instance](https://github.com/Turnip-Labs/bta-fabric-instance-repo/releases)
 
+*Supported Mods:*
+- [Stardew Farming](https://github.com/Redart15/stardew-farming-bta/releases)
+- [Better Than Fishing](https://github.com/Bacrian/BetterThanFishing/releases)
+
 This mod adds ocelots and cats into BTA!
 
 - Ocelots only spawn in rainforest biomes, and can’t spawn below y 63.
