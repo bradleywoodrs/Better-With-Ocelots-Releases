@@ -9,6 +9,7 @@
 *Supported Mods:*
 - [Stardew Farming](https://github.com/Redart15/stardew-farming-bta/releases)
 - [Better Than Fishing](https://github.com/Bacrian/BetterThanFishing/releases)
+- [Additives](https://github.com/bradleywoodrs/Additives/releases)
 
 This mod adds ocelots and cats into BTA!
 
